@@ -9,50 +9,55 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
 
-M.Sc. in Robotics, Systems and Control, ETH Zurich, GPA: 6.00/6 (Core courses)
+**M.Sc. in Robotics, Systems and Control, ETH Zurich, 2019 - now**
+- Awarded an ETH Zurich "Excellence Scholarship & Opportunity Award (ESOP)"
+- Core courses (GPA: 6.00/6):
+  - [x] Linear System Theory (Prof. John Lygeros)
+  - [x] Mathematical Optimization (Prof. Rico Zenklusen)
+  - [x] Dynamic Programming and Optimal Control (Prof. Raffaello D'Andrea)
+  - [x] Robot Dynamics (Prof. Marco Hutter)
+  - [x] Game Theory and Control (Dr. Saverio Bolognani)
+  - [x] Model Predictive Control (Prof. ‪Melanie Zeilinger)
+  - [x] Recursive Estimation (Prof. Raffaello D'Andrea)
+- Multidisciplinary Courses: 
+  - [x] Introduction to Machine Learning (Prof. Andreas Krause)
+  - [x] Probabilistic Artificial Intelligence (Prof. Andreas Krause)
+- Courses currently taking: 
+  - [] Advanced Model Predictive Control (Prof. ‪Melanie Zeilinger, Dr. ‪Lukas Hewing) 
 
-    * Awarded an ETH Zurich "Excellence Scholarship & Opportunity Award (ESOP)"
-    * Core courses:
-        1. Linear System Theory
-        2. Mathematical Optimization
-        3. Dynamic Programming and Optimal Control
-        4. Robot Dynamics
-        5. Game Theory and Control
-        6. Model Predictive Control
-        7. Recursive Estimation
-    * Multidisciplinary Courses: 
-        1. Introduction to Machine Learning
-        2. Probabilistic Artificial Intelligence
-    * Courses currently taking: Advanced Model Predictive Control
+
+**B.Eng. in Mechanical Engineering, Tongji University, 2015 - 2019**
+- Awarded the First Prize, Hirschvogel Excellent Dissertation Award 2019 (1 out of 131 students)
+- GPA: 4.84/5 (Ranking 1/131)
+- Main courses: Advanced Mathematics, Dynamics and Control, Programming
+
+RESEARCH EXPERIENCE
+======  
+**MPC controller for agile quadrupedal robots**
+
+Semester Project | The Computational Robotics Lab, ETH Zurich | Sep. 2020 - Mar. 2021 (Expected)
+
+Supervisor: Prof. Stelian Coros, Department of Computer Science
+  - Proposed a new bipartite graph representation to express  CoPs' dependency on footsteps plans, which helps us establish the input constraints.
+  - Implemented a MPC controller that can generate a dynamically feasible and stable trajectory and track a given reference trajectory using Linear Inverted Pendulum (LIP) model.
+  - Solved the MPC problem with Sequential Quadratic Programming with BFGS approximation.
 
 
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
+WORK EXPERIENCE
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- Summer 2020: Teaching Assistant for Linear System Theory, ETH Zurich
+  - Worked on the exercises of Linear System Theory. Got more familiar LaTeX.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+SKILLS
+======  
+- Programming: C/C++, MATLAB & Simulink, Python, ROS/ROS2, LaTeX, HTML + CSS + JavaScript
+- Software: GNU/Linux, git, Autodesk Inventor, Solidworks, AutoCAD
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -72,4 +77,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
