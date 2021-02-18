@@ -35,7 +35,6 @@ redirect_from:
 ### RESEARCH EXPERIENCE
 
 **MPC controller for agile quadrupedal robots** | ETH Zurich | Sep. 2020 - now
-
   - *Semester project under the supervisor of Prof. Stelian Coros, The Computational Robotics Lab*
   - Proposed a new bipartite graph representation to express  CoPs' dependency on footsteps plans, which helps us establish the input constraints.
   - Implemented a MPC controller that can generate a dynamically feasible and stable trajectory and track a given reference trajectory using Linear Inverted Pendulum (LIP) model.
@@ -45,7 +44,6 @@ redirect_from:
 ### WORK EXPERIENCE
 
 **Teaching Assistant for Linear System Theory** | ETH Zurich | Jul. 2020 - Aug. 2020
-
   - Worked on the exercises of Linear System Theory. Got more familiar LaTeX.
 
   
