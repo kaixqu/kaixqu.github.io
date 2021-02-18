@@ -26,7 +26,7 @@ EDUCATION
   - [x] Introduction to Machine Learning (Prof. Andreas Krause)
   - [x] Probabilistic Artificial Intelligence (Prof. Andreas Krause)
 - Courses currently taking: 
-  - [] Advanced Model Predictive Control (Prof. ‪Melanie Zeilinger, Dr. ‪Lukas Hewing) 
+  - [ ] Advanced Model Predictive Control (Prof. ‪Melanie Zeilinger, Dr. ‪Lukas Hewing) 
 
 
 **B.Eng. in Mechanical Engineering, Tongji University, 2015 - 2019**
@@ -36,11 +36,9 @@ EDUCATION
 
 RESEARCH EXPERIENCE
 ======  
-**MPC controller for agile quadrupedal robots**
+**MPC controller for agile quadrupedal robots** | ETH Zurich | Sep. 2020 - now
 
-Semester Project | The Computational Robotics Lab, ETH Zurich | Sep. 2020 - Mar. 2021 (Expected)
-
-Supervisor: Prof. Stelian Coros, Department of Computer Science
+  - *Semester project under the supervisor of Prof. Stelian Coros, The Computational Robotics Lab*
   - Proposed a new bipartite graph representation to express  CoPs' dependency on footsteps plans, which helps us establish the input constraints.
   - Implemented a MPC controller that can generate a dynamically feasible and stable trajectory and track a given reference trajectory using Linear Inverted Pendulum (LIP) model.
   - Solved the MPC problem with Sequential Quadratic Programming with BFGS approximation.
@@ -48,7 +46,7 @@ Supervisor: Prof. Stelian Coros, Department of Computer Science
 
 WORK EXPERIENCE
 ======
-- Summer 2020: Teaching Assistant for Linear System Theory, ETH Zurich
+**Teaching Assistant for Linear System Theory** | ETH Zurich | Jul. 2020 - Aug. 2020
   - Worked on the exercises of Linear System Theory. Got more familiar LaTeX.
 
   
