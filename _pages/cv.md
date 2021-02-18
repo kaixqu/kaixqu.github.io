@@ -11,6 +11,8 @@ redirect_from:
 
 ### EDUCATION
 
+_____
+
 **M.Sc. in Robotics, Systems and Control, ETH Zurich, 2019 - now**
 - Awarded an ETH Zurich "Excellence Scholarship & Opportunity Award (ESOP)"
 - Core courses (GPA: 6.00/6):
