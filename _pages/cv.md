@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-#### EDUCATION
-
-____________________
+### EDUCATION
 
 **M.Sc. in Robotics, Systems and Control, ETH Zurich, 2019 - now**
 - Awarded an ETH Zurich "Excellence Scholarship & Opportunity Award (ESOP)"
@@ -45,17 +43,13 @@ ____________________
   - Solved the MPC problem with Sequential Quadratic Programming with BFGS approximation.
 
 
-#### WORK EXPERIENCE
-
-____________________
+### WORK EXPERIENCE
 
 **Teaching Assistant for Linear System Theory** | ETH Zurich | Jul. 2020 - Aug. 2020
   - Worked on the exercises of Linear System Theory. Got more familiar LaTeX.
 
   
-#### SKILLS
-
-____________________
+### SKILLS
 
 - Programming: C/C++, MATLAB & Simulink, Python, ROS/ROS2, LaTeX, HTML + CSS + JavaScript
 - Software: GNU/Linux, git, Autodesk Inventor, Solidworks, AutoCAD
