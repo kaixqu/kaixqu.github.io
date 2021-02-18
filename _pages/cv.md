@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-EDUCATION
-======
+#### EDUCATION
+
+____________________
 
 **M.Sc. in Robotics, Systems and Control, ETH Zurich, 2019 - now**
 - Awarded an ETH Zurich "Excellence Scholarship & Opportunity Award (ESOP)"
@@ -34,8 +35,10 @@ EDUCATION
 - GPA: 4.84/5 (Ranking 1/131)
 - Main courses: Advanced Mathematics, Dynamics and Control, Programming
 
-RESEARCH EXPERIENCE
-======  
+#### RESEARCH EXPERIENCE
+
+____________________
+
 **MPC controller for agile quadrupedal robots** | ETH Zurich | Sep. 2020 - now
 
   - *Semester project under the supervisor of Prof. Stelian Coros, The Computational Robotics Lab*
@@ -44,14 +47,18 @@ RESEARCH EXPERIENCE
   - Solved the MPC problem with Sequential Quadratic Programming with BFGS approximation.
 
 
-WORK EXPERIENCE
-======
+#### WORK EXPERIENCE
+
+____________________
+
 **Teaching Assistant for Linear System Theory** | ETH Zurich | Jul. 2020 - Aug. 2020
   - Worked on the exercises of Linear System Theory. Got more familiar LaTeX.
 
   
-SKILLS
-======  
+#### SKILLS
+
+____________________
+
 - Programming: C/C++, MATLAB & Simulink, Python, ROS/ROS2, LaTeX, HTML + CSS + JavaScript
 - Software: GNU/Linux, git, Autodesk Inventor, Solidworks, AutoCAD
 
