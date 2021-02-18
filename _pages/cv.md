@@ -14,19 +14,18 @@ redirect_from:
 **M.Sc. in Robotics, Systems and Control, ETH Zurich, 2019 - now**
 - Awarded an ETH Zurich "Excellence Scholarship & Opportunity Award (ESOP)"
 - Core courses (GPA: 6.00/6):
-  - [x] Linear System Theory (Prof. John Lygeros)
-  - [x] Mathematical Optimization (Prof. Rico Zenklusen)
-  - [x] Dynamic Programming and Optimal Control (Prof. Raffaello D'Andrea)
-  - [x] Robot Dynamics (Prof. Marco Hutter)
-  - [x] Game Theory and Control (Dr. Saverio Bolognani)
-  - [x] Model Predictive Control (Prof. ‪Melanie Zeilinger)
-  - [x] Recursive Estimation (Prof. Raffaello D'Andrea)
+  -  Linear System Theory (Prof. John Lygeros)
+  -  Mathematical Optimization (Prof. Rico Zenklusen)
+  -  Dynamic Programming and Optimal Control (Prof. Raffaello D'Andrea)
+  -  Robot Dynamics (Prof. Marco Hutter)
+  -  Game Theory and Control (Dr. Saverio Bolognani)
+  -  Model Predictive Control (Prof. ‪Melanie Zeilinger)
+  -  Recursive Estimation (Prof. Raffaello D'Andrea)
 - Multidisciplinary Courses: 
-  - [x] Introduction to Machine Learning (Prof. Andreas Krause)
-  - [x] Probabilistic Artificial Intelligence (Prof. Andreas Krause)
+  -  Introduction to Machine Learning (Prof. Andreas Krause)
+  -  Probabilistic Artificial Intelligence (Prof. Andreas Krause)
 - Courses currently taking: 
-  - [ ] Advanced Model Predictive Control (Prof. ‪Melanie Zeilinger, Dr. ‪Lukas Hewing) 
-
+  -  Advanced Model Predictive Control (Prof. ‪Melanie Zeilinger, Dr. ‪Lukas Hewing) 
 
 **B.Eng. in Mechanical Engineering, Tongji University, 2015 - 2019**
 - Awarded the First Prize, Hirschvogel Excellent Dissertation Award 2019 (1 out of 131 students)
@@ -46,6 +45,7 @@ redirect_from:
 ### WORK EXPERIENCE
 
 **Teaching Assistant for Linear System Theory** | ETH Zurich | Jul. 2020 - Aug. 2020
+
   - Worked on the exercises of Linear System Theory. Got more familiar LaTeX.
 
   
