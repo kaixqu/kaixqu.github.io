@@ -43,7 +43,7 @@ Semester project | Supervisor: Prof. Stelian Coros, the Computational Robotics L
 ## WORK EXPERIENCE
 
 **Teaching Assistant for Linear System Theory** | ETH Zurich | Jul. 2020 - Aug. 2020
-  - Worked on the exercises of Linear System Theory. Got more familiar LaTeX.
+  - Worked on the exercises of Linear System Theory. Got more familiar with LaTeX.
 
 
 ## SKILLS
