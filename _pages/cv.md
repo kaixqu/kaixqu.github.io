@@ -35,9 +35,7 @@ ____________________
 - GPA: 4.84/5 (Ranking 1/131)
 - Main courses: Advanced Mathematics, Dynamics and Control, Programming
 
-#### RESEARCH EXPERIENCE
-
-____________________
+### RESEARCH EXPERIENCE
 
 **MPC controller for agile quadrupedal robots** | ETH Zurich | Sep. 2020 - now
 
