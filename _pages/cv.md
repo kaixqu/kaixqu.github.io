@@ -14,13 +14,13 @@ redirect_from:
 **M.Sc. in Robotics, Systems and Control, ETH Zurich, 2019 - now**
 - Awarded an ETH Zurich "Excellence Scholarship & Opportunity Award (ESOP)"
 - Core courses (GPA: 6.00/6):
-  -  Linear System Theory (Prof. John Lygeros)
-  -  Mathematical Optimization (Prof. Rico Zenklusen)
-  -  Dynamic Programming and Optimal Control (Prof. Raffaello D'Andrea)
-  -  Robot Dynamics (Prof. Marco Hutter)
-  -  Game Theory and Control (Dr. Saverio Bolognani)
-  -  Model Predictive Control (Prof. ‪Melanie Zeilinger)
-  -  Recursive Estimation (Prof. Raffaello D'Andrea)
+  -  **Linear System Theory** (Prof. John Lygeros)
+  -  **Mathematical Optimization** (Prof. Rico Zenklusen)
+  -  **Dynamic Programming and Optimal Control** (Prof. Raffaello D'Andrea)
+  -  **Robot Dynamics** (Prof. Marco Hutter)
+  -  **Game Theory and Control** (Dr. Saverio Bolognani)
+  -  **Model Predictive Control** (Prof. ‪Melanie Zeilinger)
+  -  **Recursive Estimation** (Prof. Raffaello D'Andrea)
 - Multidisciplinary Courses: 
   -  Introduction to Machine Learning (Prof. Andreas Krause)
   -  Probabilistic Artificial Intelligence (Prof. Andreas Krause)
@@ -35,7 +35,7 @@ redirect_from:
 ### RESEARCH EXPERIENCE
 
 **MPC controller for agile quadrupedal robots** | ETH Zurich | Sep. 2020 - now
-  - *Semester project under the supervisor of Prof. Stelian Coros, The Computational Robotics Lab*
+  - *Semester project under the supervision of Prof. Stelian Coros, the Computational Robotics Lab*
   - Proposed a new bipartite graph representation to express  CoPs' dependency on footsteps plans, which helps us establish the input constraints.
   - Implemented a MPC controller that can generate a dynamically feasible and stable trajectory and track a given reference trajectory using Linear Inverted Pendulum (LIP) model.
   - Solved the MPC problem with Sequential Quadratic Programming with BFGS approximation.
