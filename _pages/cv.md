@@ -11,9 +11,25 @@ redirect_from:
 
 Education
 ======
+
+M.Sc. in Robotics, Systems and Control, ETH Zurich, GPA: 6.00/6 (Core courses)
+
+    * Awarded an ETH Zurich "Excellence Scholarship & Opportunity Award (ESOP)"
+    * Core courses:
+        1. Linear System Theory
+        2. Mathematical Optimization
+        3. Dynamic Programming and Optimal Control
+        4. Robot Dynamics
+        5. Game Theory and Control
+        6. Model Predictive Control
+        7. Recursive Estimation
+    * Multidisciplinary Courses: 
+        1. Introduction to Machine Learning
+        2. Probabilistic Artificial Intelligence
+    * Courses currently taking: Advanced Model Predictive Control
+
+
 * B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
