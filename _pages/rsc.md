@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: splash
 title: "RSC study material"
 permalink: /rsc/
 author_profile: false
