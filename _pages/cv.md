@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae (last update: Feb. 18, 2021)"
+title: "Curriculum Vitae (last update: Apr. 7. 2021)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -21,11 +21,11 @@ redirect_from:
   -  *Dynamic Programming and Optimal Control* (Prof. Raffaello D'Andrea)
   -  *Game Theory and Control* (Dr. Saverio Bolognani)
   -  *Model Predictive Control* (Prof. ‪Melanie Zeilinger)
-- Multidisciplinary Courses: 
+  -  *Advanced Model Predictive Control* (Prof. ‪Melanie Zeilinger, Dr. ‪Lukas Hewing) 
+- Multidisciplinary Courses (GPA: 5.75/6): 
   -  *Introduction to Machine Learning* (Prof. Andreas Krause)
   -  *Probabilistic Artificial Intelligence* (Prof. Andreas Krause)
-- Courses currently taking: 
-  -  *Advanced Model Predictive Control* (Prof. ‪Melanie Zeilinger, Dr. ‪Lukas Hewing) 
+- Semester Project (GPA: 5.75/6)
 
 **B.Eng. in Mechanical Engineering, Tongji University, 2015 - 2019**
 - Awarded the First Prize, Hirschvogel Excellent Dissertation Award 2019 (1 out of 131 students)
@@ -33,11 +33,11 @@ redirect_from:
 
 ## RESEARCH EXPERIENCE
 
-**MPC controller for agile quadrupedal robots** | ETH Zurich | Sep. 2020 - now  
+**MPC controller for agile quadrupedal robots** | ETH Zurich | Sep. 2020 - Mar. 2021  
 Semester project | Supervisor: Prof. Stelian Coros, the Computational Robotics Lab  
-- Proposed a new bipartite graph representation to express  CoPs' dependency on footsteps plans, which helps us establish the input constraints.
+- Proposed a new bipartite graph representation to express  CoPs' dependency on footholds, which helps to establish the input constraints in linear form.
 - Implemented a MPC controller that can generate a dynamically feasible and stable trajectory and track a given reference trajectory using Linear Inverted Pendulum (LIP) model.
-- Solved the MPC problem with Sequential Quadratic Programming with BFGS approximation.
+- Solved the LMPC and NMPC problem numericallly with QP and SQP with damped BFGS updating, respectively.
 
 ## WORK EXPERIENCE
 
